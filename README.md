@@ -1,2 +1,8 @@
-# PassGenX
-PassGenX: A minimalist password generator app built with React.js, Tailwind CSS, and HTML5. Create secure passwords with ease, ranging from 6 to 100 characters, including numbers and special symbols. Copy passwords to the clipboard in a single click. Enhance your security effortlessly.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
